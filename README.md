@@ -1,4 +1,4 @@
-📌 #IoT-Based Attendance System using NodeMCU, RFID & Google Sheets
+📌 # IoT-Based Attendance System using NodeMCU, RFID & Google Sheets
 
 📖***Overview***
 This project is a real-time, IoT-based attendance system developed using RFID, NodeMCU (ESP8266), and Google Sheets API. It automates the process of attendance tracking by logging data directly to a cloud-based Google Sheet, eliminating the need for manual entries. The system ensures contactless, fast, and accurate attendance recording, ideal for schools, colleges, or workplaces.
